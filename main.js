@@ -42,7 +42,7 @@ function checkQuestion(index) {
 			);
 	} else {
 		console.log("");
-		//observeQuestions();
+		startObserver();
 	}
 }
 

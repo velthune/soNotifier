@@ -1,5 +1,9 @@
 #soNotifier
 
+##Prerequisites
+
+Node >= 4
+
 #Installation
 
 	$ git clone https://github.com/velthune/soNotifier.git && (cd soNotifier; ./install)
