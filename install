@@ -1,0 +1,4 @@
+
+
+echo "Installing dependencies..."
+npm install fs jsdom node-notifier open >/dev/null 2>&1 && echo "Win!"
