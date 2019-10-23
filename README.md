@@ -1,14 +1,14 @@
-#soNotifier
+# soNotifier
 
-##Prerequisites
+## Prerequisites
 
 Node >= 4
 
-#Installation
+# Installation
 
 	$ git clone https://github.com/velthune/soNotifier.git && (cd soNotifier; ./install)
 
-#Usage
+# Usage
 
 	Fill log file with question ids.	
 
